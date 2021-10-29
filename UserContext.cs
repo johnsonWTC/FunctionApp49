@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace FunctionApp47
+namespace FunctionApp49
 {
    public class UserContext : DbContext
     {
